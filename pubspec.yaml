@@ -1,0 +1,28 @@
+name: de1_flutter_ho_ngoc_hai_88661_lttbdd_n03
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/fruits.jpg
+    - assets/images/macaroon.jpg
+    - assets/images/greengrape.jpg
+    - assets/images/purplegrape.jpg
